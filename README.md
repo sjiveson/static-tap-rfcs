@@ -8,6 +8,9 @@ commence, mapping to this RFC.  Any updates to this RFC which do not
 constitute significant rewrites will be released as `v1.0.x`, while
 specifications which are fundamentally new will be released as `v1.x.y`.
 
+Latest RFC: RFC 011
+Next RFC: RFC 012
+
 # Static Tap?
 
 Static Tap is the Working Name for a project which aims to provide
