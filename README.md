@@ -34,6 +34,17 @@ Taken largely from a [blog post I recently wrote][2]:
 > graph historical data of varying types.  Static Tap (working name)
 > does not aim to maintain historical data of any sort at this stage.
 
+## Versioning
+
+For `vx.y.z`:
+
+- x: major
+- y: minor
+- z: bug/hotfix
+
+Taking `v1.2.3` as an example, `1` is the major version, `2` is the
+minor version, and `3` is the bugfix or hotfix version.
+
 ## Technology
 
 Selecting the appropriate technology stack is imperative.  It's
@@ -118,17 +129,17 @@ automation and analytics/insight.
 
 You can reach me via e-mail at tyler@oss-stack.io.
 
-[1]: ../../../issues/1 "RFC 001: Project Name"
+[1]: ../../issues/1 "RFC 001: Project Name"
 [2]: https://oss-stack.io/blog/network-status-api-part-2/ "Network Status API Part 2"
-[3]: ../../../issues/2 "RFC 002: Life Cycle"
-[4]: ../../../issues/3 "RFC 003: Database Selection"
-[5]: ../../../issues/4 "RFC 004: API Backend Language Selection"
-[6]: ../../../issues/5 "RFC 005: Front End System"
-[7]: ../../../issues/6 "RFC 006: Backend Updater Language Selection"
-[8]: ../../../issues/7 "RFC 007: Workflow Management"
-[9]: ../../../issues/8 "RFC 008: Collaboration"
-[10]: ../../../issues/9 "RFC 009: Ticket Management"
-[11]: ../../../issues/10 "RFC 010: Release Cycle"
+[3]: ../../issues/2 "RFC 002: Life Cycle"
+[4]: ../../issues/3 "RFC 003: Database Selection"
+[5]: ../../issues/4 "RFC 004: API Backend Language Selection"
+[6]: ../../issues/5 "RFC 005: Front End System"
+[7]: ../../issues/6 "RFC 006: Backend Updater Language Selection"
+[8]: ../../issues/7 "RFC 007: Workflow Management"
+[9]: ../../issues/8 "RFC 008: Collaboration"
+[10]: ../../issues/9 "RFC 009: Ticket Management"
+[11]: ../../issues/10 "RFC 010: Release Cycle"
 [12]: api.md "API Reference Document"
-[13]: ../../../issues/11 "RFC 011: API Route Structure"
+[13]: ../../issues/11 "RFC 011: API Route Structure"
 
